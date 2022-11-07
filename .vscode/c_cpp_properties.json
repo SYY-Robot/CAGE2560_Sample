@@ -1,0 +1,70 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/include",
+                "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/src",
+                "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/SparkFun_TB6612FNG_Arduino_Library/src",
+                "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/PS2X_lib",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/variants/mega",
+                "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/Moto_IR",
+                "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/Motoduino_v12",
+                "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/Motoshare",
+                "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/RotaryEncoder/src",
+                "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/SmartSensor/src",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/include",
+                    "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/src",
+                    "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/SparkFun_TB6612FNG_Arduino_Library/src",
+                    "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/PS2X_lib",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/variants/mega",
+                    "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/Moto_IR",
+                    "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/Motoduino_v12",
+                    "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/Motoshare",
+                    "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/RotaryEncoder/src",
+                    "c:/Users/rd400/Documents/PlatformIO/Projects/cage2560_encodermotor/lib/SmartSensor/src",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60105",
+                "ARDUINO_AVR_MEGA2560",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/rd400/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
